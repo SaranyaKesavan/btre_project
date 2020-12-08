@@ -153,4 +153,6 @@ dmypy.json
 
 # virtual environment of current project
 btrevenv
+
+.vscode
 # End of https://www.toptal.com/developers/gitignore/api/django
